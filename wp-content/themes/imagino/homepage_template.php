@@ -78,7 +78,7 @@
                 </div>             
               </div>
               <div class="col-md-6 text-center">
-                    <img src="http://burger-mahal.de/wp-content/uploads/2022/03/Indian-meals.png">
+                    <img src="https://dasindischehaus.de/wp-content/uploads/2022/03/Indian-meals.png">
 <!-- <img src="<?php bloginfo('template_directory')?>/asset/images/burger.png">-->
               </div>
             

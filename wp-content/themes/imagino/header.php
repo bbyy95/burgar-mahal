@@ -42,7 +42,7 @@ DD_belatedPNG.fix('.side_list');
 
         <div class="logo col-lg-2">
           <a href="<?php echo get_option('home'); ?>">
-          <img src="<?php echo get_option_tree('logo'); ?>" width="200" class="logo-image d-block" alt="Das Indische Haus">
+          <img src="https://dasindischehaus.de/wp-content/uploads/2020/03/003-e1592720808673.png" width="200" class="logo-image d-block" alt="Das Indische Haus">
           </a>
         </div>
 
