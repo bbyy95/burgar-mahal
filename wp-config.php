@@ -23,18 +23,13 @@
 define( 'DB_NAME', 'dbs5706757' );
 define( 'DB_USER', 'dbu2041711' );
 define( 'DB_PASSWORD', 'aiZSk7UU35gQb9o)%O' );
+define( 'DB_HOST', 'database-5006912083.ud-webspace.de');
 
 
-/** The name of the database for WordPress */
 #define( 'DB_NAME', 'burgar-mahals');
-/** Database username */
 #define( 'DB_USER', 'root');
-
-/** Database password */
 #define( 'DB_PASSWORD', '');
 
-/** Database hostname */
-define( 'DB_HOST', 'database-5006912083.ud-webspace.de');
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
